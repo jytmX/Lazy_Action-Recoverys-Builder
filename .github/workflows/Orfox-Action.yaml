@@ -1,4 +1,4 @@
-name: OrangeFox [OFRP]
+name: OrangeFox Action Git
 
 on:
   workflow_dispatch:
